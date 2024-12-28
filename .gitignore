@@ -1,1 +1,9 @@
 /.env
+
+/pages/billing.html
+/pages/profile.html
+/pages/rtl.html
+/pages/sign-in.html
+/pages/sign-up.html
+/pages/tables.html
+/pages/virtual.html
